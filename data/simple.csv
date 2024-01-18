@@ -1,0 +1,16 @@
+QS1,QS2,QS3,Q73,Q72,QS4_1,QS4_2,QS4_3,QS4_4,QS4_5,QS5,Q76,Q75,QS6,QS7_1,QS7_2,QS7_3,QS7_4,Q78,Q77,QS8,QS9,QS10,Q74,Q79,QS11,Q52,Q80,Q81
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+False,False,True,Neither confident or unsure,Neither dissatisfied or satisfied,1,5,4,3,2,68,Confident,Satisfied,Executive,4,1,3,2,Confident,Satisfied,Q2,October,January-February,Somewhat confident,Neither dissatisfied or satisfied,,,,
+True,False,False,Somewhat confident,Dissatisfied,1,5,4,3,2,40,Not confident at all,Satisfied,Executive,4,1,3,2,Confident,Very satisfied,Q2,February,November-December,Neither confident or unsure,Dissatisfied,3rd of November,8th of November,Not confident at all,Very dissatisfied
+False,False,True,Somewhat confident,Dissatisfied,1,4,5,3,2,40,Neither confident or unsure,Neither dissatisfied or satisfied,Executive,4,1,3,2,Confident,Very dissatisfied,Q2,February,November-December,Somewhat confident,Neither dissatisfied or satisfied,10th of November,24th of November,Somewhat confident,Neither dissatisfied or satisfied
+False,False,False,Somewhat confident,Neither dissatisfied or satisfied,,,,,,26,Neither confident or unsure,Neither dissatisfied or satisfied,Executive,4,1,3,2,Confident,Very satisfied,Q2,February,November-December,Somewhat confident,Satisfied,10th of November,24th of November,Somewhat confident,Satisfied
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+False,False,True,Somewhat confident,Satisfied,1,5,4,3,2,68,Somewhat confident,Dissatisfied,Executive,4,1,3,2,Confident,Very dissatisfied,Q1,October,January-February,Somewhat confident,Satisfied,10th of November,29th of November,Neither confident or unsure,Dissatisfied
+False,False,False,Not confident at all,Dissatisfied,1,5,4,3,2,40,Somewhat confident,Satisfied,Executive,4,1,3,2,Confident,Very satisfied,Q2,February,January-February,Not confident,Neither dissatisfied or satisfied,10th of November,24th of November,Confident,Very satisfied
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+True,False,False,Not confident,Dissatisfied,1,5,4,3,2,34,Neither confident or unsure,Dissatisfied,Executive,4,1,3,2,Somewhat confident,Dissatisfied,Q3,October,November-December,Not confident at all,Very dissatisfied,10th of November,24th of November,Not confident at all,Dissatisfied
+False,False,True,Somewhat confident,Satisfied,1,5,4,3,2,38,Not confident,Dissatisfied,Executive,4,1,3,2,Somewhat confident,Satisfied,Q1,October,January-February,Somewhat confident,Dissatisfied,10th of November,29th of November,Neither confident or unsure,Dissatisfied
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+False,False,True,Somewhat confident,Neither dissatisfied or satisfied,1,5,4,3,2,40,Not confident,Dissatisfied,Executive,4,1,3,2,Neither confident or unsure,Neither dissatisfied or satisfied,Q2,October,January-February,Somewhat confident,Satisfied,10th of November,24th of November,Somewhat confident,Satisfied
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,

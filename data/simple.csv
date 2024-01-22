@@ -1,0 +1,30 @@
+,QS1,QS2,QS3,Q73,Q72,ST2_First Click,ST2_Last Click,ST2_Page Submit,ST2_Click Count,QS4_1,QS4_2,QS4_3,QS4_4,QS4_5,QS5,Q76,Q75,ST3-4_First Click,ST3-4_Last Click,ST3-4_Page Submit,ST3-4_Click Count,QS6,QS7_1,QS7_2,QS7_3,QS7_4,Q78,Q77,ST5_First Click,ST5_Last Click,ST5_Page Submit,ST5_Click Count,QS8,QS9,QS10,Q74,Q79,ST6_First Click,ST6_Last Click,ST6_Page Submit,ST6_Click Count,QS11,Q52,Q80,Q81,Duration (in seconds)
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,881
+20,False,False,True,3.0,3.0,,,,,1,5,4,3,2,68,4.0,4.0,,,,,Executive,4,1,3,2,4.0,4.0,,,,,Q2,October,January-February,5.0,3.0,,,,,,,,,551
+21,True,False,False,5.0,2.0,,,,,1,5,4,3,2,40,1.0,4.0,,,,,Executive,4,1,3,2,4.0,5.0,,,,,Q2,February,November-December,3.0,2.0,,,,,3rd of November,8th of November,1.0,1.0,622
+22,False,False,True,5.0,2.0,,,,,1,4,5,3,2,40,3.0,3.0,,,,,Executive,4,1,3,2,4.0,1.0,,,,,Q2,February,November-December,5.0,3.0,,,,,10th of November,24th of November,5.0,3.0,736
+23,False,False,False,5.0,3.0,,,,,,,,,,26,3.0,3.0,,,,,Executive,4,1,3,2,4.0,5.0,,,,,Q2,February,November-December,5.0,4.0,,,,,10th of November,24th of November,5.0,4.0,10534
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,457
+25,False,False,True,5.0,4.0,,,,,1,5,4,3,2,68,5.0,2.0,,,,,Executive,4,1,3,2,4.0,1.0,,,,,Q1,October,January-February,5.0,4.0,,,,,10th of November,29th of November,3.0,2.0,506
+26,False,False,False,1.0,2.0,,,,,1,5,4,3,2,40,5.0,4.0,,,,,Executive,4,1,3,2,4.0,5.0,,,,,Q2,February,January-February,2.0,3.0,,,,,10th of November,24th of November,4.0,5.0,602
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,173
+28,True,False,False,2.0,2.0,,,,,1,5,4,3,2,34,3.0,2.0,,,,,Executive,4,1,3,2,5.0,2.0,,,,,Q3,October,November-December,1.0,1.0,,,,,10th of November,24th of November,1.0,2.0,446
+29,False,False,True,5.0,4.0,,,,,1,5,4,3,2,38,2.0,2.0,,,,,Executive,4,1,3,2,5.0,4.0,,,,,Q1,October,January-February,5.0,2.0,,,,,10th of November,29th of November,3.0,2.0,1402
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,725
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1307
+32,False,False,True,5.0,3.0,,,,,1,5,4,3,2,40,2.0,2.0,,,,,Executive,4,1,3,2,3.0,3.0,,,,,Q2,October,January-February,5.0,4.0,,,,,10th of November,24th of November,5.0,4.0,529
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+34,False,False,True,5.0,3.0,,,,,1,5,4,3,2,,1.0,1.0,,,,,Executive,4,1,3,2,5.0,3.0,,,,,Q2,February,January-February,5.0,2.0,,,,,10th of November,24th of November,4.0,4.0,977
+35,False,False,True,5.0,3.0,,,,,1,5,4,3,2,60,2.0,2.0,,,,,Executive,4,1,3,2,4.0,4.0,,,,,Q2,October,January-February,3.0,3.0,,,,,10th of November,24th of November,1.0,2.0,875
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,910
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27
+39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
+40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,183
+41,False,False,False,3.0,3.0,110.917,200.146,200.778,8,2,3,5,4,1,68,1.0,4.0,40.421,92.076,92.932,3,Executive,3,1,4,2,3.0,2.0,19.889,127.408,127.936,9,Q2,February,November-December,5.0,3.0,16.616,77.962,79.219,12,10th of November,24th of November,5.0,4.0,647
+42,False,False,True,4.0,2.0,18.383,263.429,267.286,5,2,4,5,3,1,54,2.0,2.0,119.369,178.774,179.597,4,Executive,4,1,3,2,4.0,2.0,150.589,373.712,375.153,9,Q2,October,January-February,5.0,3.0,87.729,153.112,154.819,4,10th of November,24th of November,2.0,4.0,1428
+43,False,False,False,5.0,3.0,0.524,135.947,136.783,23,1,3,4,5,2,34,5.0,4.0,0.719,100.907,101.778,17,Executive,4,1,2,3,4.0,1.0,0.923,169.224,170.107,18,Q2,October,January-February,5.0,3.0,9.36,144.361,145.141,19,10th of November,29th of November,5.0,4.0,3078
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15
+45,False,True,False,2.0,4.0,52.797,93.594,94.261,14,1,4,3,5,2,68,5.0,4.0,3.094,134.994,135.598,32,Executive,4,1,3,2,3.0,4.0,0.822,102.068,102.631,56,Q3,October,November-December,5.0,4.0,33.285,108.114,108.792,23,10th of November,24th of November,3.0,3.0,659
+46,False,False,True,2.0,4.0,7.6,68.306,68.737,16,1,2,3,4,5,70,1.0,4.0,2.177,296.841,297.192,63,Executive,4,1,3,2,4.0,5.0,3.721,227.466,228.701,128,Q2,October,November-December,4.0,4.0,6.961,145.083,146.183,52,10th of November,24th of November,5.0,1.0,972
+47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5280

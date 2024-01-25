@@ -26,3 +26,7 @@ This repository contains several files and folders integral to our research on d
 - Data in the `transformed` folder represents the cleaned data, which is the output of the `analysis-survey.py` script and is the dataset to be used for any further analysis or research dissemination.
 
 Thank you for your interest in our research. Please ensure to follow the outlined structure for optimal understanding and utilization of the data and scripts provided.
+
+## Link to preview of survey:
+
+https://survey.uu.nl/jfe/preview/previewId/001cfc9e-0b5f-42f8-9adc-376d088ad630/SV_1OoNnhrg9sKIKGO?Q_CHL=preview&Q_SurveyVersionID=current
